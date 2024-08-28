@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container_studentTable {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  border-top: 5px solid rgb(38, 74, 204);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px #ccc;
+  margin-top: 20px;
+}
+.container_studentTable h2{
+  text-align: center;
+}
+.table_container .btn{
+  padding: 10px 14px;
+  border: 2px solid #000;
+  border-radius: 6px;
+  text-decoration: none;
+  color: white;
+  background: rgb(151, 13, 151);
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+.table_container2{
+  /* border: 2px solid rgb(72, 255, 0); */
+  /* border-radius: 20px !important; */
+  width: 100%;
+  margin-top: 30px;
+  padding: 10px;
+  border-radius: 10px;
+}

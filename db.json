@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "anurag",
+      "place": "indore",
+      "phone": 9399165441
+    },
+    {
+      "id": "3",
+      "name": "john",
+      "place": "UK",
+      "phone": "5652398752"
+    },
+    {
+      "id": "6",
+      "name": "ram",
+      "place": "indore",
+      "phone": "4598763259"
+    }
+  ]
+}
